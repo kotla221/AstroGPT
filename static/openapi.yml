@@ -6,7 +6,7 @@ info:
 
 servers:
   #  Put your site URL here
-  - url: https://example.netlify.app
+  - url: https://jolly-sable-477634.netlify.app/
     description: Netlify Edge Function
 
 paths:
